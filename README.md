@@ -6,5 +6,4 @@
 
 
 # WeRateDogs-
-Udacity nanodegree projects
-
+Udacity nanodegree project 2
