@@ -9,6 +9,6 @@ WeRateDogs is a Twitter account that rates people's dogs with humorous comments 
 received international media coverage. They have shared 5000+ of their tweets containing some 
 basic data such as their brief comments, the breed if the dog.
 
-Goal:
+Goal\
 Wrangle WeRateDogs Twitter data to create interesting and trustworthy analysis and 
 visualization.
